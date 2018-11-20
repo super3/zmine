@@ -48,7 +48,7 @@
     "del": "^3.0.0",
     "electron": "^3.0.8",
     "electron-builder": "^20.36.2",
-    "electron-builder-squirrel-windows": "^20.18.0",
+    "electron-builder-squirrel-windows": "^20.36.0",
     "electron-packager": "^12.2.0",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^5.2.0",
