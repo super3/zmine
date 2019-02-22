@@ -51,7 +51,7 @@
     "electron-builder-squirrel-windows": "^20.38.3",
     "electron-packager": "^13.0.1",
     "istanbul": "^1.1.0-alpha.1",
-    "mocha": "^5.2.0",
+    "mocha": "^6.0.1",
     "spectron": "^5.0.0",
     "supertest": "^3.4.2",
     "xo": "^0.21.1"
