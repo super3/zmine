@@ -11,7 +11,9 @@
     "start": "electron .",
     "package": "electron-packager .",
     "pack": "electron-builder --dir",
-    "dist": "electron-builder"
+    "dist": "electron-builder",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -39,7 +41,8 @@
     "popper.js": "^1.14.7",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
-    "vue": "^2.6.8"
+    "vue": "^2.6.8",
+    "snyk": "^1.161.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -69,5 +72,6 @@
     "win": {
       "target": "squirrel"
     }
-  }
+  },
+  "snyk": true
 }
