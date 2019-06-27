@@ -47,7 +47,7 @@
     "coveralls": "^3.0.4",
     "del": "^4.1.1",
     "electron": "^4.0.8",
-    "electron-builder": "^20.38.5",
+    "electron-builder": "^20.44.4",
     "electron-builder-squirrel-windows": "^20.38.3",
     "electron-packager": "^14.0.0",
     "istanbul": "^1.1.0-alpha.1",
