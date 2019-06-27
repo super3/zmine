@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/super3/zmine#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "base58check": "^2.0.0",
     "bootstrap": "^4.2.1",
     "dotenv": "^8.0.0",
