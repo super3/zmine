@@ -44,7 +44,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "coveralls": "^3.0.2",
+    "coveralls": "^3.0.4",
     "del": "^4.1.1",
     "electron": "^4.0.8",
     "electron-builder": "^20.38.5",
