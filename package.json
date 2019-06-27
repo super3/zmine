@@ -52,7 +52,7 @@
     "electron-packager": "^13.1.1",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^6.0.2",
-    "spectron": "^5.0.0",
+    "spectron": "^7.0.0",
     "supertest": "^4.0.2",
     "xo": "^0.21.1"
   },
